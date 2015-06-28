@@ -1,0 +1,2140 @@
+Archive member included because of file (symbol)
+
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_udivsi3.o)
+                              hardware.o (__aeabi_uidiv)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_divsi3.o)
+                              usb/hid.o (__aeabi_idiv)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_dvmd_tls.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+                              syscalls.o (__errno)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                              syscalls.o (__sinit)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (_fwalk)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (_global_impure_ptr)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-iprintf.o)
+                              fat.o (iprintf)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isprint.o)
+                              hardware.o (isprint)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (_malloc_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcmp.o)
+                              menu.o (memcmp)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+                              fat.o (memcpy)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+                              usb/pl2303.o (memmove)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                              fat.o (memset)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o) (__malloc_lock)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+                              fpga.o (puts)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o) (_sbrk_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-setvbuf.o)
+                              main.o (setvbuf)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-siprintf.o)
+                              fpga.o (siprintf)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (__sread)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcat.o)
+                              menu.o (strcat)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+                              ini_parser.o (strcmp)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcpy.o)
+                              fat.o (strcpy)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+                              menu.o (strlen)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncasecmp.o)
+                              menu.o (strncasecmp)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncat.o)
+                              menu.o (strncat)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncmp.o)
+                              fat.o (strncmp)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+                              fat.o (strncpy)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok.o)
+                              usb/hid.o (strtok)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok_r.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok.o) (__strtok_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtol.o)
+                              user_io.o (strtol)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtoul.o)
+                              ini_parser.o (strtoul)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-siprintf.o) (_svfiprintf_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-tolower.o)
+                              fat.o (tolower)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-iprintf.o) (_vfiprintf_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+                              user_io.o (__swbuf_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_write_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o) (__swsetup_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_close_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-ctype_.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isprint.o) (__ctype_ptr__)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (_fclose_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o) (__sflush_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o) (_fputwc_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o) (_free_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o) (__sfvwrite_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o) (__locale_mb_cur_max)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_lseek_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o) (__smakebuf_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-setvbuf.o) (malloc)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o) (memchr)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_read_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o) (_realloc_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o) (errno)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o) (_wcrtomb_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o) (__wctomb)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o) (_fstat_r)
+/opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+                              /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o) (_isatty_r)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000100000 0x0000000000040000 xr
+DATA             0x0000000000200000 0x0000000000010000 rw
+STACK            0x0000000000210000 0x0000000000000000 rw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD crt.o
+LOAD Cstartup_SAM7.o
+LOAD fat.o
+LOAD fdd.o
+LOAD firmware.o
+LOAD fpga.o
+LOAD hardware.o
+LOAD spi.o
+LOAD hdd.o
+LOAD main.o
+LOAD menu.o
+LOAD mmc.o
+LOAD osd.o
+LOAD syscalls.o
+LOAD user_io.o
+LOAD boot.o
+LOAD rafile.o
+LOAD config.o
+LOAD tos.o
+LOAD ikbd.o
+LOAD xmodem.o
+LOAD ini_parser.o
+LOAD mist_cfg.o
+LOAD archie.o
+LOAD usb/max3421e.o
+LOAD usb/usb.o
+LOAD usb/hub.o
+LOAD usb/hid.o
+LOAD usb/hidparser.o
+LOAD usb/timer.o
+LOAD usb/asix.o
+LOAD usb/pl2303.o
+LOAD usb/usbrtc.o
+LOAD cdc_enumerate.o
+LOAD cdc_control.o
+START GROUP
+LOAD /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a
+LOAD /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a
+END GROUP
+                0x0000000000000000                . = 0x0
+
+.text           0x0000000000100000    0x2a674
+ *Cstartup.o(.text)
+ *(.text)
+ .text          0x0000000000100000      0x13c crt.o
+                0x0000000000100000                _startup
+                0x00000000001000b8                exit
+                0x00000000001000bc                IRQ_Handler_Entry
+                0x000000000010010c                AT91F_Default_FIQ_handler
+                0x0000000000100110                AT91F_Default_IRQ_handler
+                0x0000000000100114                AT91F_Spurious_handler
+ .text          0x000000000010013c       0xf4 Cstartup_SAM7.o
+                0x000000000010013c                AT91F_LowLevelInit
+ .text          0x0000000000100230     0x2dc8 fat.o
+                0x0000000000100314                fat_uses_mmc
+                0x0000000000100338                fat_medium_present
+                0x0000000000100384                FindDrive
+                0x0000000000100940                FileOpen
+                0x0000000000100b40                lfn_checksum
+                0x0000000000100b68                _strnicmp
+                0x0000000000100bd0                CompareDirEntries
+                0x0000000000100c68                ScanDirectory
+                0x000000000010262c                ChangeDirectory
+                0x000000000010264c                ClusterAllocate
+                0x0000000000102740                FileNextSectorExpand
+                0x000000000010284c                FileSeek
+                0x000000000010291c                FileReadEx
+                0x00000000001029bc                FileWrite
+                0x0000000000102a1c                FileCreate
+                0x0000000000102cb8                UpdateEntry
+                0x0000000000102d7c                FileWriteEnd
+                0x0000000000102f50                FileNew
+ .text          0x0000000000102ff8     0x1df4 fdd.o
+                0x0000000000102ff8                SendSector
+                0x00000000001037c0                SendGap
+                0x0000000000103804                ReadTrack
+                0x0000000000103c6c                FindSync
+                0x0000000000103e50                GetHeader
+                0x00000000001045ac                GetData
+                0x0000000000104b64                WriteTrack
+                0x0000000000104ca8                UpdateDriveStatus
+                0x0000000000104d4c                HandleFDD
+ .text          0x0000000000104dec      0x3bc firmware.o
+                0x0000000000104dec                CalculateCRC32
+                0x0000000000104e20                CheckFirmware
+                0x0000000000105138                GetFirmwareVersion
+ .text          0x00000000001051a8     0x1b78 fpga.o
+                0x00000000001051a8                SendFile
+                0x0000000000105460                SendFileEncrypted
+                0x0000000000105788                BootDraw
+                0x0000000000105b7c                BootPrint
+                0x0000000000105bac                PrepareBootUpload
+                0x0000000000105f18                BootExit
+                0x00000000001062c0                ClearMemory
+                0x0000000000106680                GetFPGAStatus
+                0x00000000001067d4                fpga_init
+ .text          0x0000000000106d20      0x60c hardware.o
+                0x0000000000106d20                timer0_c_irq_handler
+                0x0000000000106d3c                Usart0IrqHandler
+                0x0000000000106df0                __init_hardware
+                0x0000000000106f18                hexdump
+                0x0000000000107034                USART_Poll
+                0x00000000001070dc                USART_Write
+                0x0000000000107154                USART_Init
+                0x00000000001071e4                CheckButton
+                0x00000000001071f4                Timer_Init
+                0x0000000000107270                GetTimer
+                0x0000000000107288                CheckTimer
+                0x00000000001072a8                WaitTimer
+                0x00000000001072d8                TIMER_wait
+                0x0000000000107308                mmc_inserted
+                0x000000000010731c                mmc_write_protected
+ .text          0x000000000010732c      0x980 spi.o
+                0x000000000010732c                spi_init
+                0x0000000000107374                EnableFpga
+                0x0000000000107384                DisableFpga
+                0x00000000001073b0                EnableOsd
+                0x00000000001073c0                DisableOsd
+                0x00000000001073ec                EnableIO
+                0x00000000001073fc                DisableIO
+                0x0000000000107428                EnableDMode
+                0x0000000000107438                DisableDMode
+                0x0000000000107448                spi_block
+                0x00000000001074a8                spi_write
+                0x00000000001074f0                spi_block_write
+                0x000000000010753c                spi_slow
+                0x0000000000107550                spi_fast
+                0x0000000000107564                spi_fast_mmc
+                0x0000000000107578                spi_in
+                0x00000000001075b4                spi8
+                0x00000000001075e8                spi16
+                0x0000000000107654                spi24
+                0x00000000001076fc                spi32
+                0x00000000001077d8                spi32le
+                0x00000000001078b4                spi_n
+                0x0000000000107914                spi_osd_cmd_cont
+                0x0000000000107954                spi_osd_cmd
+                0x00000000001079bc                spi_osd_cmd8_cont
+                0x0000000000107a2c                spi_osd_cmd8
+                0x0000000000107a64                spi_osd_cmd32_cont
+                0x0000000000107aa8                spi_osd_cmd32
+                0x0000000000107ae0                spi_osd_cmd32le_cont
+                0x0000000000107b24                spi_osd_cmd32le
+                0x0000000000107b5c                spi_uio_cmd_cont
+                0x0000000000107b9c                spi_uio_cmd
+                0x0000000000107c04                spi_uio_cmd8_cont
+                0x0000000000107c74                spi_uio_cmd8
+ .text          0x0000000000107cac     0x26c8 hdd.o
+                0x0000000000107cac                IdentifyDevice
+                0x0000000000107f14                chs2lba
+                0x0000000000107f48                WriteTaskFile
+                0x000000000010836c                WriteStatus
+                0x00000000001084b8                GetHardfileGeometry
+                0x000000000010865c                BuildHardfileIndex
+                0x00000000001086e4                HardFileSeek
+                0x000000000010876c                HandleHDD
+                0x000000000010a074                OpenHardfile
+                0x000000000010a284                GetHDFFileType
+ .text          0x000000000010a374      0x1d0 main.o
+                0x000000000010a374                FatalError
+                0x000000000010a3d4                HandleFpga
+ .text          0x000000000010a544     0x6404 menu.o
+                0x000000000010a6f0                SelectFile
+                0x000000000010a850                ScrollLongName
+                0x000000000010a90c                GetDiskInfo
+                0x000000000010aa64                PrintDirectory
+                0x000000000010ad24                _strncpy
+                0x000000000010ad80                InsertFloppy
+                0x000000000010af18                inserttestfloppy
+                0x000000000010af88                ErrorMessage
+                0x000000000010afd0                InfoMessage
+                0x000000000010b02c                HandleUI
+                0x00000000001108d8                EjectAllFloppies
+ .text          0x0000000000110948      0xde0 mmc.o
+                0x0000000000110ad0                MMC_CheckCard
+                0x0000000000110b10                MMC_Init
+                0x0000000000110f74                MMC_GetCSD
+                0x0000000000110f80                MMC_GetCID
+                0x0000000000110f8c                MMC_GetCapacity
+                0x0000000000111020                MMC_ReadMultiple
+                0x00000000001114a0                MMC_Write
+                0x000000000011170c                MMC_IsSDHC
+ .text          0x0000000000111728     0x134c osd.o
+                0x0000000000111728                framebuffer_clear
+                0x0000000000111754                framebuffer_plot
+                0x0000000000111788                StarsInit
+                0x00000000001118a0                StarsUpdate
+                0x0000000000111a08                OsdSetTitle
+                0x0000000000111c10                OsdWriteOffset
+                0x0000000000111f50                OsdWrite
+                0x0000000000111f70                OsdDrawLogo
+                0x00000000001121a0                OSD_PrintText
+                0x0000000000112394                OsdClear
+                0x00000000001123d4                OsdEnable
+                0x0000000000112414                OsdDisable
+                0x0000000000112450                OsdReset
+                0x00000000001124a0                MM1_ConfigFilter
+                0x00000000001124c0                ConfigVideo
+                0x00000000001124f4                ConfigMemory
+                0x0000000000112550                ConfigCPU
+                0x0000000000112588                ConfigChipset
+                0x00000000001125c4                ConfigFloppy
+                0x0000000000112614                MM1_ConfigScanlines
+                0x000000000011262c                ConfigIDE
+                0x00000000001126b0                ConfigAutofire
+                0x00000000001126ec                OsdGetCtrl
+                0x00000000001128d8                GetASCIIKey
+                0x00000000001128f4                ScrollText
+                0x0000000000112a2c                ScrollReset
+                0x0000000000112a54                OsdKeySet
+                0x0000000000112a64                OsdKeyGet
+ .text          0x0000000000112a74      0x71c syscalls.o
+                0x0000000000112b30                initialise_monitor_handles
+                0x0000000000112bb0                _swiread
+                0x0000000000112bdc                _read
+                0x0000000000112c58                _swilseek
+                0x0000000000112d54                _lseek
+                0x0000000000112d88                _swiwrite
+                0x0000000000112db4                _write
+                0x0000000000112e28                _swiopen
+                0x0000000000112eec                _open
+                0x0000000000112f2c                _swiclose
+                0x0000000000112f8c                _close
+                0x0000000000112fc0                _exit
+                0x0000000000112fc8                _kill
+                0x0000000000112fd0                _getpid
+                0x0000000000112fd8                _sbrk
+                0x000000000011303c                _fstat
+                0x0000000000113070                _stat
+                0x00000000001130c4                _link
+                0x00000000001130cc                _unlink
+                0x00000000001130d4                _raise
+                0x00000000001130d8                _gettimeofday
+                0x000000000011310c                _times
+                0x0000000000113134                isatty
+                0x000000000011313c                _isatty
+                0x0000000000113144                _system
+                0x0000000000113174                _rename
+ .text          0x0000000000113190     0x260c user_io.o
+                0x0000000000113514                user_io_osd_is_visible
+                0x0000000000113524                user_io_init
+                0x000000000011359c                user_io_core_type
+                0x00000000001135ac                minimig_v1
+                0x00000000001135c8                minimig_v2
+                0x00000000001135e4                user_io_is_8bit_with_config_string
+                0x00000000001135f4                user_io_analog_joystick
+                0x0000000000113644                user_io_digital_joystick
+                0x0000000000113704                user_io_joystick
+                0x00000000001137d4                user_io_serial_tx
+                0x0000000000113820                user_io_serial_status
+                0x00000000001138a4                user_io_midi_tx
+                0x00000000001138bc                user_io_eth_send_mac
+                0x00000000001138ec                user_io_sd_set_config
+                0x0000000000113948                user_io_sd_get_status
+                0x00000000001139a0                user_io_eth_get_status
+                0x00000000001139e4                user_io_eth_receive_tx_frame
+                0x0000000000113a30                user_io_eth_send_rx_frame
+                0x0000000000113a64                user_io_file_tx
+                0x0000000000113d2c                user_io_8bit_get_string
+                0x0000000000113e20                user_io_create_config_name
+                0x0000000000113e9c                user_io_8bit_set_status
+                0x0000000000113edc                user_io_detect_core_type
+                0x0000000000114118                user_io_dip_switch1
+                0x0000000000114130                user_io_menu_button
+                0x0000000000114148                user_io_user_button
+                0x0000000000114160                user_io_mouse
+                0x000000000011423c                user_io_poll
+                0x0000000000114f5c                keycode
+                0x0000000000114fd8                check_reset
+                0x0000000000115010                modifier_keycode
+                0x0000000000115090                user_io_osd_key_enable
+                0x00000000001150d0                user_io_kbd
+                0x00000000001156dc                user_io_key_remap
+ .text          0x000000000011579c      0xb14 boot.o
+                0x0000000000115898                BootHome
+                0x00000000001158b0                BootEnableMem
+                0x0000000000115908                BootClearScreen
+                0x0000000000115948                BootUploadLogo
+                0x0000000000115bfc                BootUploadBall
+                0x0000000000115d44                BootUploadCopper
+                0x0000000000115f00                BootCustomInit
+                0x000000000011610c                BootInit
+                0x0000000000116134                BootPrintEx
+ .text          0x00000000001162b0      0x288 rafile.o
+                0x00000000001162b0                RARead
+                0x0000000000116488                RASeek
+                0x000000000011650c                RAOpen
+ .text          0x0000000000116538     0x26e4 config.o
+                0x0000000000116538                UploadKickstart
+                0x0000000000116b90                hrtcfg_print
+                0x0000000000116dec                UploadActionReplay
+                0x0000000000117d44                SetConfigurationFilename
+                0x0000000000117d8c                ConfigurationExists
+                0x0000000000117dbc                ApplyConfiguration
+                0x000000000011874c                LoadConfiguration
+                0x0000000000118a90                SaveConfiguration
+ .text          0x0000000000118c1c     0x2624 tos.o
+                0x00000000001191d0                tos_get_cdc_control_redirect
+                0x00000000001191e8                tos_set_cdc_control_redirect
+                0x0000000000119228                tos_set_video_adjust
+                0x00000000001192f0                tos_get_video_adjust
+                0x000000000011930c                mist_memory_set
+                0x00000000001193a0                tos_set_direct_hdd
+                0x0000000000119448                tos_get_direct_hdd
+                0x0000000000119460                tos_load_cartridge
+                0x00000000001195cc                tos_cartridge_is_inserted
+                0x00000000001195e4                tos_update_sysctrl
+                0x00000000001195f4                tos_get_disk_name
+                0x00000000001196b8                tos_get_image_name
+                0x00000000001196e0                tos_get_cartridge_name
+                0x0000000000119738                tos_disk_is_inserted
+                0x000000000011978c                tos_select_hdd_image
+                0x0000000000119868                tos_insert_disk
+                0x0000000000119a98                tos_upload
+                0x000000000011a21c                tos_eject_all
+                0x000000000011a2c0                tos_reset
+                0x000000000011a30c                tos_poll
+                0x000000000011b068                tos_system_ctrl
+                0x000000000011b078                tos_config_init
+                0x000000000011b15c                tos_config_save
+ .text          0x000000000011b240     0x1058 ikbd.o
+                0x000000000011b240                ikbd_handler_resume
+                0x000000000011b258                ikbd_handler_pause
+                0x000000000011b274                ikbd_handler_interrogate_joystick
+                0x000000000011b354                ikbd_handler_set_relative_mouse_pos
+                0x000000000011b380                ikbd_handler_set_mouse_keycode_mode
+                0x000000000011b3a8                ikbd_handler_set_mouse_threshold
+                0x000000000011b3d0                ikbd_handler_set_mouse_scale
+                0x000000000011b408                ikbd_handler_set_y_bottom
+                0x000000000011b434                ikbd_handler_set_y_top
+                0x000000000011b460                ikbd_handler_disable_mouse
+                0x000000000011b48c                ikbd_handler_set_joystick_event_reporting
+                0x000000000011b4bc                ikbd_handler_set_joystick_interrogation_mode
+                0x000000000011b4e8                ikbd_handler_disable_joysticks
+                0x000000000011b514                ikbd_handler_set_abs_mouse_pos
+                0x000000000011b584                ikbd_handler_load_mouse_pos
+                0x000000000011b5e4                ikbd_handler_time_set
+                0x000000000011b678                ikbd_handler_interrogate_time
+                0x000000000011b79c                ikbd_handler_interrogate_mouse_pos
+                0x000000000011b8b8                ikbd_handler_mouse_button_action
+                0x000000000011b8f4                ikbd_handler_reset
+                0x000000000011b978                be16
+                0x000000000011b98c                bcd2bin
+                0x000000000011b9a4                bin2bcd
+                0x000000000011b9c8                ikbd_init
+                0x000000000011ba74                ikbd_reset
+                0x000000000011ba94                ikbd_handle_input
+                0x000000000011bb58                ikbd_joystick
+                0x000000000011bb98                ikbd_keyboard
+                0x000000000011bbf8                ikbd_poll
+                0x000000000011bfb8                ikbd_mouse
+                0x000000000011c130                ikbd_update_time
+ .text          0x000000000011c298      0x5e4 xmodem.o
+                0x000000000011c298                xmodem_poll
+                0x000000000011c340                xmodem_rx_byte
+ .text          0x000000000011c87c      0x818 ini_parser.o
+                0x000000000011c960                ini_getch
+                0x000000000011c9cc                ini_putch
+                0x000000000011ca2c                ini_findch
+                0x000000000011ca54                ini_getline
+                0x000000000011cb4c                ini_putline
+                0x000000000011cbdc                ini_get_section
+                0x000000000011cbf4                ini_get_var
+                0x000000000011cf9c                ini_parse
+                0x000000000011d078                ini_save
+ .text          0x000000000011d094       0x20 mist_cfg.o
+                0x000000000011d094                mist_ini_parse
+ .text          0x000000000011d0b4     0x10b8 archie.o
+                0x000000000011d24c                archie_get_rom_name
+                0x000000000011d26c                archie_get_floppy_name
+                0x000000000011d2d4                archie_save_config
+                0x000000000011d3b8                archie_send_file
+                0x000000000011d5c8                archie_fdc_set_status
+                0x000000000011d660                archie_set_floppy
+                0x000000000011d6e4                archie_floppy_is_inserted
+                0x000000000011d70c                archie_set_rom
+                0x000000000011d754                archie_init
+                0x000000000011d914                archie_kbd
+                0x000000000011d9a4                archie_mouse
+                0x000000000011db3c                archie_handle_kbd
+                0x000000000011de24                archie_handle_fdc
+                0x000000000011e15c                archie_poll
+ .text          0x000000000011e16c      0x3b4 usb/max3421e.o
+                0x000000000011e16c                max3421e_write_u08
+                0x000000000011e1ac                max3421e_read_u08
+                0x000000000011e1e8                max3421e_write
+                0x000000000011e234                max3421e_read
+                0x000000000011e2bc                max3421e_reset
+                0x000000000011e30c                max3421e_busprobe
+                0x000000000011e3dc                max3421e_init
+                0x000000000011e488                max3421e_poll
+ .text          0x000000000011e520      0xd24 usb/usb.o
+                0x000000000011e520                usb_reset_state
+                0x000000000011e548                usb_get_devices
+                0x000000000011e554                usb_init
+                0x000000000011e5b4                usb_set_address
+                0x000000000011e628                usb_dispatchPkt
+                0x000000000011e70c                usb_InTransfer
+                0x000000000011e834                usb_in_transfer
+                0x000000000011e884                usb_OutTransfer
+                0x000000000011ea74                usb_out_transfer
+                0x000000000011eac4                usb_ctrl_req
+                0x000000000011ebe4                usb_release_device
+                0x000000000011ecf8                usb_get_dev_descr
+                0x000000000011ed30                usb_get_conf_descr
+                0x000000000011ed6c                usb_set_addr
+                0x000000000011edcc                usb_configure
+                0x000000000011ef80                usb_poll
+                0x000000000011f1e0                usb_set_conf
+                0x000000000011f214                usb_SetHubPreMask
+                0x000000000011f22c                usb_ResetHubPreMask
+ .text          0x000000000011f244      0x74c usb/hub.o
+ .text          0x000000000011f990     0x1b14 usb/hid.o
+                0x0000000000121010                hid_joystick_button_remap_init
+                0x0000000000121050                hid_joystick_button_remap
+                0x0000000000121194                virtual_joystick_remap_init
+                0x00000000001211b4                virtual_joystick_remap
+                0x0000000000121338                hid_get_joysticks
+                0x0000000000121348                hid_set_kbd_led
+                0x0000000000121434                hid_keyboard_present
+ .text          0x00000000001214a4      0x6a8 usb/hidparser.o
+                0x00000000001214a4                report_is_usable
+                0x00000000001214f4                parse_report_descriptor
+ .text          0x0000000000121b4c       0x3c usb/timer.o
+                0x0000000000121b4c                timer_init
+                0x0000000000121b5c                timer_get_msec
+                0x0000000000121b68                timer_delay_msec
+ .text          0x0000000000121b88      0xb94 usb/asix.o
+                0x0000000000122154                mii_nway_restart
+                0x00000000001226e8                usb_asix_xmit
+ .text          0x000000000012271c      0xbd4 usb/pl2303.o
+                0x00000000001231a8                pl2303_is_blocked
+                0x00000000001231d8                pl2303_tx_byte
+                0x0000000000123220                pl2303_present
+                0x0000000000123238                pl2303_rx_available
+                0x0000000000123250                pl2303_rx
+                0x0000000000123294                pl2303_settings
+                0x00000000001232d0                pl2303_tx
+ .text          0x00000000001232f0      0x52c usb/usbrtc.o
+                0x00000000001234ec                usb_rtc_get_time
+                0x000000000012360c                usb_rtc_set_time
+ .text          0x000000000012381c      0x8b4 cdc_enumerate.o
+                0x0000000000123f08                usb_cdc_open
+                0x0000000000123f74                usb_cdc_is_configured
+                0x0000000000123f88                usb_cdc_read
+                0x0000000000124030                usb_cdc_write
+                0x00000000001240b4                AT91F_USB_SendZlp
+ .text          0x00000000001240d0      0x2fc cdc_control.o
+                0x00000000001240d0                cdc_control_open
+                0x00000000001240ec                cdc_control_flush
+                0x0000000000124118                cdc_control_tx
+                0x00000000001241bc                cdc_control_poll
+ .text          0x00000000001243cc      0x114 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_udivsi3.o)
+                0x00000000001243cc                __udivsi3
+                0x00000000001243cc                __aeabi_uidiv
+                0x00000000001244c0                __aeabi_uidivmod
+ .text          0x00000000001244e0      0x148 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_divsi3.o)
+                0x00000000001244e0                __aeabi_idiv
+                0x00000000001244e0                __divsi3
+                0x0000000000124608                __aeabi_idivmod
+ .text          0x0000000000124628        0x4 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_dvmd_tls.o)
+                0x0000000000124628                __aeabi_ldiv0
+                0x0000000000124628                __aeabi_idiv0
+ .text          0x000000000012462c       0x10 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+                0x000000000012462c                __errno
+ .text          0x000000000012463c      0x350 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x000000000012464c                _cleanup_r
+                0x00000000001247c4                __sfmoreglue
+                0x0000000000124814                __sfp
+                0x0000000000124900                _cleanup
+                0x0000000000124924                __sinit
+                0x0000000000124934                __sfp_lock_acquire
+                0x0000000000124938                __sfp_lock_release
+                0x000000000012493c                __sinit_lock_acquire
+                0x0000000000124940                __sinit_lock_release
+                0x0000000000124944                __fp_lock_all
+                0x0000000000124968                __fp_unlock_all
+ .text          0x000000000012498c      0x110 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+                0x000000000012498c                _fwalk
+                0x0000000000124a10                _fwalk_reent
+ .text          0x0000000000124a9c        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .text          0x0000000000124a9c       0x74 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-iprintf.o)
+                0x0000000000124a9c                iprintf
+                0x0000000000124adc                _iprintf_r
+ .text          0x0000000000124b10       0x38 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isprint.o)
+                0x0000000000124b10                isgraph
+                0x0000000000124b2c                isprint
+ .text          0x0000000000124b48      0x724 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x0000000000124b48                _malloc_r
+ .text          0x000000000012526c       0xb0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcmp.o)
+                0x000000000012526c                memcmp
+ .text          0x000000000012531c       0xf0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+                0x000000000012531c                memcpy
+ .text          0x000000000012540c      0x12c /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+                0x000000000012540c                memmove
+ .text          0x0000000000125538       0xf4 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                0x0000000000125538                memset
+ .text          0x000000000012562c        0x8 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                0x000000000012562c                __malloc_lock
+                0x0000000000125630                __malloc_unlock
+ .text          0x0000000000125634       0xa8 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+                0x0000000000125634                _puts_r
+                0x00000000001256c8                puts
+ .text          0x00000000001256dc       0x44 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                0x00000000001256dc                _sbrk_r
+ .text          0x0000000000125720      0x174 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-setvbuf.o)
+                0x0000000000125720                setvbuf
+ .text          0x0000000000125894       0xdc /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-siprintf.o)
+                0x0000000000125894                _siprintf_r
+                0x00000000001258fc                siprintf
+ .text          0x0000000000125970       0xd8 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x0000000000125970                __sread
+                0x00000000001259a4                __seofread
+                0x00000000001259ac                __swrite
+                0x0000000000125a04                __sseek
+                0x0000000000125a34                __sclose
+ .text          0x0000000000125a48       0x84 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcat.o)
+                0x0000000000125a48                strcat
+ .text          0x0000000000125acc      0x224 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+                0x0000000000125acc                strcmp
+ .text          0x0000000000125cf0       0xf0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcpy.o)
+                0x0000000000125cf0                strcpy
+ .text          0x0000000000125de0       0x60 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+                0x0000000000125de0                strlen
+ .text          0x0000000000125e40       0x94 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncasecmp.o)
+                0x0000000000125e40                strncasecmp
+ .text          0x0000000000125ed4       0xa8 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncat.o)
+                0x0000000000125ed4                strncat
+ .text          0x0000000000125f7c      0x118 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncmp.o)
+                0x0000000000125f7c                strncmp
+ .text          0x0000000000126094       0xe4 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+                0x0000000000126094                strncpy
+ .text          0x0000000000126178       0x24 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok.o)
+                0x0000000000126178                strtok
+ .text          0x000000000012619c       0xc8 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok_r.o)
+                0x000000000012619c                __strtok_r
+                0x000000000012625c                strtok_r
+ .text          0x0000000000126264      0x204 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtol.o)
+                0x0000000000126264                _strtol_r
+                0x0000000000126440                strtol
+ .text          0x0000000000126468      0x1f4 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtoul.o)
+                0x0000000000126468                _strtoul_r
+                0x0000000000126634                strtoul
+ .text          0x000000000012665c     0x1044 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                0x000000000012665c                __ssprint_r
+                0x000000000012680c                _svfiprintf_r
+ .text          0x00000000001276a0       0x24 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-tolower.o)
+                0x00000000001276a0                tolower
+ .text          0x00000000001276c4     0x1234 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+                0x0000000000127770                __sprint_r
+                0x0000000000127788                _vfiprintf_r
+                0x0000000000128824                vfiprintf
+ .text          0x00000000001288f8      0x140 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+                0x00000000001288f8                __swbuf_r
+                0x0000000000128a20                __swbuf
+ .text          0x0000000000128a38       0x44 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+                0x0000000000128a38                _write_r
+ .text          0x0000000000128a7c      0x160 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+                0x0000000000128a7c                __swsetup_r
+ .text          0x0000000000128bdc       0x3c /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+                0x0000000000128bdc                _close_r
+ .text          0x0000000000128c18        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-ctype_.o)
+ .text          0x0000000000128c18      0x110 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+                0x0000000000128c18                _fclose_r
+                0x0000000000128d14                fclose
+ .text          0x0000000000128d28      0x2d0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                0x0000000000128d28                __sflush_r
+                0x0000000000128f68                _fflush_r
+                0x0000000000128fbc                fflush
+ .text          0x0000000000128ff8      0x190 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+                0x0000000000128ff8                __fputwc
+                0x0000000000129124                _fputwc_r
+                0x0000000000129144                fputwc
+ .text          0x0000000000129188      0x3bc /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                0x0000000000129188                _malloc_trim_r
+                0x0000000000129288                _free_r
+ .text          0x0000000000129544      0x4ec /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+                0x0000000000129544                __sfvwrite_r
+ .text          0x0000000000129a30       0xdc /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x0000000000129a30                _setlocale_r
+                0x0000000000129aac                __locale_charset
+                0x0000000000129ab8                __locale_mb_cur_max
+                0x0000000000129ac8                __locale_msgcharset
+                0x0000000000129ad4                __locale_cjk_lang
+                0x0000000000129adc                _localeconv_r
+                0x0000000000129ae8                setlocale
+                0x0000000000129b00                localeconv
+ .text          0x0000000000129b0c       0x44 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+                0x0000000000129b0c                _lseek_r
+ .text          0x0000000000129b50      0x168 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+                0x0000000000129b50                __smakebuf_r
+ .text          0x0000000000129cb8       0x40 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+                0x0000000000129cb8                malloc
+                0x0000000000129cd8                free
+ .text          0x0000000000129cf8      0x118 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+                0x0000000000129cf8                memchr
+ .text          0x0000000000129e10       0x44 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+                0x0000000000129e10                _read_r
+ .text          0x0000000000129e54      0x4dc /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                0x0000000000129e54                _realloc_r
+ .text          0x000000000012a330      0x120 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                0x000000000012a330                cleanup_glue
+                0x000000000012a35c                _reclaim_reent
+ .text          0x000000000012a450      0x130 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+                0x000000000012a450                _wcrtomb_r
+                0x000000000012a4e4                wcrtomb
+ .text          0x000000000012a580       0x78 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+                0x000000000012a580                __ascii_wctomb
+                0x000000000012a5a8                _wctomb_r
+ .text          0x000000000012a5f8       0x40 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+                0x000000000012a5f8                _fstat_r
+ .text          0x000000000012a638       0x3c /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+                0x000000000012a638                _isatty_r
+ *(.glue_7t)
+ .glue_7t       0x0000000000000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x0000000000000000        0x0 linker stubs
+
+.vfp11_veneer   0x000000000012a674        0x0
+ .vfp11_veneer  0x0000000000000000        0x0 linker stubs
+
+.v4_bx          0x000000000012a674        0x0
+ .v4_bx         0x0000000000000000        0x0 linker stubs
+
+.iplt           0x000000000012a674        0x0
+ .iplt          0x0000000000000000        0x0 crt.o
+
+.text.startup   0x000000000012a674      0x1ec
+ .text.startup  0x000000000012a674      0x1ec main.o
+                0x000000000012a674                main
+
+.text.unlikely  0x000000000012a860       0x4c
+ .text.unlikely
+                0x000000000012a860       0x4c usb/asix.o
+                0x000000000012a8ac                . = ALIGN (0x4)
+
+.rodata         0x000000000012a8ac     0x15a4
+ *(.rodata)
+ .rodata        0x000000000012a8ac      0x400 firmware.o
+                0x000000000012a8ac                crc32_table
+ .rodata        0x000000000012acac       0x10 hdd.o
+ .rodata        0x000000000012acbc       0x10 main.o
+                0x000000000012acbc                version
+ .rodata        0x000000000012accc      0x4f0 osd.o
+                0x000000000012accc                logodata
+                0x000000000012b13c                keycode_table
+ .rodata        0x000000000012b1bc      0x3d0 user_io.o
+                0x000000000012b1c8                usb2ami
+                0x000000000012b2a8                usb2atari
+                0x000000000012b388                usb2archie
+                0x000000000012b468                usb2ps2
+ .rodata        0x000000000012b58c      0x300 boot.o
+ .rodata        0x000000000012b88c        0xc config.o
+ .rodata        0x000000000012b898       0xb0 tos.o
+ .rodata        0x000000000012b948        0xc ikbd.o
+ .rodata        0x000000000012b954       0xc4 mist_cfg.o
+                0x000000000012b954                mist_ini_cfg
+                0x000000000012b968                mist_ini_vars
+                0x000000000012ba10                mist_ini_sections
+ .rodata        0x000000000012ba18        0x4 archie.o
+ .rodata        0x000000000012ba1c       0x68 usb/usb.o
+ .rodata        0x000000000012ba84       0x2c usb/hub.o
+                0x000000000012baa4                usb_hub_class
+ .rodata        0x000000000012bab0       0xe0 usb/hid.o
+                0x000000000012bac0                usb_hid_class
+ .rodata        0x000000000012bb90       0x34 usb/asix.o
+                0x000000000012bbb8                usb_asix_class
+ .rodata        0x000000000012bbc4       0xdc usb/pl2303.o
+                0x000000000012bbd4                usb_pl2303_class
+ .rodata        0x000000000012bca0        0xc usb/usbrtc.o
+                0x000000000012bca0                usb_usbrtc_class
+ .rodata        0x000000000012bcac       0x5c cdc_enumerate.o
+                0x000000000012bcac                devDescriptor
+                0x000000000012bcc0                cfgDescriptor
+                0x000000000012bd04                langDescriptor
+ .rodata        0x000000000012bd08        0x4 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                0x000000000012bd08                _global_impure_ptr
+ .rodata        0x000000000012bd0c       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .rodata        0x000000000012bd2c       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .rodata        0x000000000012bd4c      0x104 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-ctype_.o)
+                0x000000000012bd4c                _ctype_
+
+.rodata.str1.4  0x000000000012be50     0x54d8
+ .rodata.str1.4
+                0x000000000012be50      0x336 fat.o
+                                        0x33c (size before relaxing)
+ *fill*         0x000000000012c186        0x2 
+ .rodata.str1.4
+                0x000000000012c188        0xd fdd.o
+                                         0x10 (size before relaxing)
+ *fill*         0x000000000012c195        0x3 
+ .rodata.str1.4
+                0x000000000012c198      0x1f8 firmware.o
+ .rodata.str1.4
+                0x000000000012c390      0x335 fpga.o
+                                        0x344 (size before relaxing)
+ *fill*         0x000000000012c6c5        0x3 
+ .rodata.str1.4
+                0x000000000012c6c8       0x2a hardware.o
+                                         0x34 (size before relaxing)
+ *fill*         0x000000000012c6f2        0x2 
+ .rodata.str1.4
+                0x000000000012c6f4       0xe5 hdd.o
+                                         0xe8 (size before relaxing)
+ *fill*         0x000000000012c7d9        0x3 
+ .rodata.str1.4
+                0x000000000012c7dc       0x7c main.o
+ .rodata.str1.4
+                0x000000000012c858     0x140f menu.o
+                                       0x146c (size before relaxing)
+ *fill*         0x000000000012dc67        0x1 
+ .rodata.str1.4
+                0x000000000012dc68      0x2c3 mmc.o
+                                        0x2c4 (size before relaxing)
+ *fill*         0x000000000012df2b        0x1 
+ .rodata.str1.4
+                0x000000000012df2c        0x4 syscalls.o
+ .rodata.str1.4
+                0x000000000012df30      0x360 user_io.o
+                                        0x384 (size before relaxing)
+ .rodata.str1.4
+                0x000000000012e290       0x24 boot.o
+                                         0x28 (size before relaxing)
+ .rodata.str1.4
+                0x000000000012e2b4      0x8c3 config.o
+                                        0x8e0 (size before relaxing)
+ *fill*         0x000000000012eb77        0x1 
+ .rodata.str1.4
+                0x000000000012eb78      0xb66 tos.o
+                                        0xb8c (size before relaxing)
+ *fill*         0x000000000012f6de        0x2 
+ .rodata.str1.4
+                0x000000000012f6e0      0x341 ikbd.o
+                                        0x348 (size before relaxing)
+ *fill*         0x000000000012fa21        0x3 
+ .rodata.str1.4
+                0x000000000012fa24      0x14d xmodem.o
+                                        0x150 (size before relaxing)
+ *fill*         0x000000000012fb71        0x3 
+ .rodata.str1.4
+                0x000000000012fb74       0xd8 ini_parser.o
+ .rodata.str1.4
+                0x000000000012fc4c       0x95 mist_cfg.o
+                                         0x98 (size before relaxing)
+ *fill*         0x000000000012fce1        0x3 
+ .rodata.str1.4
+                0x000000000012fce4      0x6d8 archie.o
+                                        0x6ec (size before relaxing)
+ .rodata.str1.4
+                0x00000000001303bc       0x68 usb/max3421e.o
+ .rodata.str1.4
+                0x0000000000130424      0x121 usb/usb.o
+                                        0x124 (size before relaxing)
+ *fill*         0x0000000000130545        0x3 
+ .rodata.str1.4
+                0x0000000000130548      0x207 usb/hub.o
+                                        0x208 (size before relaxing)
+ *fill*         0x000000000013074f        0x1 
+ .rodata.str1.4
+                0x0000000000130750      0x442 usb/hid.o
+                                        0x444 (size before relaxing)
+ *fill*         0x0000000000130b92        0x2 
+ .rodata.str1.4
+                0x0000000000130b94       0x7c usb/asix.o
+ .rodata.str1.4
+                0x0000000000130c10      0x4fd usb/pl2303.o
+                                        0x500 (size before relaxing)
+ *fill*         0x000000000013110d        0x3 
+ .rodata.str1.4
+                0x0000000000131110       0x2e usb/usbrtc.o
+                                         0x30 (size before relaxing)
+ *fill*         0x000000000013113e        0x2 
+ .rodata.str1.4
+                0x0000000000131140       0x1b cdc_enumerate.o
+                                         0x1c (size before relaxing)
+ *fill*         0x000000000013115b        0x1 
+ .rodata.str1.4
+                0x000000000013115c      0x18e cdc_control.o
+                                        0x194 (size before relaxing)
+ *fill*         0x00000000001312ea        0x2 
+ .rodata.str1.4
+                0x00000000001312ec        0x2 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                                          0x4 (size before relaxing)
+ .rodata.str1.4
+                0x0000000000000000        0x4 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+ *fill*         0x00000000001312ee        0x2 
+ .rodata.str1.4
+                0x00000000001312f0       0x2f /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                                         0x30 (size before relaxing)
+ .rodata.str1.4
+                0x0000000000000000       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ *fill*         0x000000000013131f        0x1 
+ .rodata.str1.4
+                0x0000000000131320        0x8 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                                         0x14 (size before relaxing)
+
+.eh_frame       0x0000000000131328       0x44
+ .eh_frame      0x0000000000131328       0x44 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+
+.rel.dyn        0x000000000013136c        0x0
+ .rel.iplt      0x0000000000000000        0x0 crt.o
+                0x000000000013136c                . = ALIGN (0x4)
+                0x000000000013136c                _etext = .
+                0x000000000013136c                PROVIDE (etext, .)
+
+.data           0x0000000000200000     0x1b18 load address 0x000000000013136c
+                0x0000000000200000                _data = .
+ *(.data)
+ .data          0x0000000000200000        0x0 crt.o
+ .data          0x0000000000200000        0x0 Cstartup_SAM7.o
+ .data          0x0000000000200000        0x8 fat.o
+                0x0000000000200000                lwrite
+                0x0000000000200004                lread
+ .data          0x0000000000200008        0x0 fdd.o
+ .data          0x0000000000200008        0x0 firmware.o
+ .data          0x0000000000200008        0x0 fpga.o
+ .data          0x0000000000200008        0x0 hardware.o
+ .data          0x0000000000200008        0x0 spi.o
+ .data          0x0000000000200008        0x0 hdd.o
+ .data          0x0000000000200008        0x0 main.o
+ .data          0x0000000000200008      0x164 menu.o
+                0x0000000000200014                config_autofire_msg
+                0x0000000000200024                helptexts
+                0x0000000000200040                config_tos_wrprot
+                0x0000000000200050                config_tos_mem
+                0x0000000000200070                config_cpu_msg
+                0x0000000000200080                config_tos_usb
+                0x0000000000200098                atari_chipset
+                0x00000000002000a8                stereo
+                0x00000000002000b0                scanlines
+                0x00000000002000c0                config_turbo_msg
+                0x00000000002000d0                config_chipset_msg
+                0x00000000002000f0                config_memory_chip_msg
+                0x0000000000200100                config_memory_slow_msg
+                0x0000000000200110                config_memory_fast_msg
+                0x0000000000200124                config_hdf_msg
+                0x0000000000200140                config_filter_msg
+                0x0000000000200150                config_scanlines_msg
+                0x000000000020015c                config_dither_msg
+ .data          0x000000000020016c        0x0 mmc.o
+ .data          0x000000000020016c      0x400 osd.o
+                0x000000000020016c                charfont
+ .data          0x000000000020056c        0x0 syscalls.o
+ .data          0x000000000020056c       0x1c user_io.o
+                0x0000000000200580                a_pPMC
+                0x0000000000200584                a_pADC
+ .data          0x0000000000200588        0x8 boot.o
+                0x000000000020058c                bcury
+ .data          0x0000000000200590        0x0 rafile.o
+ .data          0x0000000000200590        0x0 config.o
+ .data          0x0000000000200590        0x4 tos.o
+ .data          0x0000000000200594       0xa8 ikbd.o
+                0x0000000000200594                ikbd_command_handler
+ .data          0x000000000020063c        0x0 xmodem.o
+ .data          0x000000000020063c        0x0 ini_parser.o
+ .data          0x000000000020063c        0x0 mist_cfg.o
+ .data          0x000000000020063c        0x0 archie.o
+ .data          0x000000000020063c        0x0 usb/max3421e.o
+ .data          0x000000000020063c        0x0 usb/usb.o
+ .data          0x000000000020063c        0x0 usb/hub.o
+ .data          0x000000000020063c        0x0 usb/hid.o
+ .data          0x000000000020063c        0x0 usb/hidparser.o
+ .data          0x000000000020063c        0x0 usb/timer.o
+ .data          0x000000000020063c        0x0 usb/asix.o
+ .data          0x000000000020063c        0x0 usb/pl2303.o
+ .data          0x000000000020063c        0x0 usb/usbrtc.o
+ .data          0x000000000020063c        0x8 cdc_enumerate.o
+                0x000000000020063c                line
+ .data          0x0000000000200644        0x0 cdc_control.o
+ .data          0x0000000000200644        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_udivsi3.o)
+ .data          0x0000000000200644        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_divsi3.o)
+ .data          0x0000000000200644        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_dvmd_tls.o)
+ .data          0x0000000000200644        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .data          0x0000000000200644        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .data          0x0000000000200644        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ *fill*         0x0000000000200644        0x4 
+ .data          0x0000000000200648      0x430 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                0x0000000000200648                _impure_ptr
+ .data          0x0000000000200a78        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-iprintf.o)
+ .data          0x0000000000200a78        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isprint.o)
+ .data          0x0000000000200a78      0x410 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x0000000000200a78                __malloc_av_
+                0x0000000000200e80                __malloc_sbrk_base
+                0x0000000000200e84                __malloc_trim_threshold
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcmp.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-setvbuf.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-siprintf.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcat.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcpy.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncasecmp.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncat.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncmp.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok_r.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtol.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtoul.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-tolower.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .data          0x0000000000200e88        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .data          0x0000000000200e88        0x4 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-ctype_.o)
+                0x0000000000200e88                __ctype_ptr__
+ .data          0x0000000000200e8c        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .data          0x0000000000200e8c        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .data          0x0000000000200e8c        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+ .data          0x0000000000200e8c        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .data          0x0000000000200e8c        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .data          0x0000000000200e8c       0x7c /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x0000000000200eac                __mb_cur_max
+ .data          0x0000000000200f08        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .data          0x0000000000200f08        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .data          0x0000000000200f08        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .data          0x0000000000200f08        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .data          0x0000000000200f08        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .data          0x0000000000200f08        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .data          0x0000000000200f08        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .data          0x0000000000200f08        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+ .data          0x0000000000200f08        0x4 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+                0x0000000000200f08                __wctomb
+ .data          0x0000000000200f0c        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .data          0x0000000000200f0c        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+                0x0000000000200f0c                . = ALIGN (0x4)
+ *(.ramsection)
+ .ramsection    0x0000000000200f0c      0x210 fat.o
+                0x0000000000200f7c                NextCluster
+                0x0000000000201018                FileNextSector
+                0x00000000002010c8                FileRead
+ .ramsection    0x000000000020111c      0x1ac firmware.o
+                0x000000000020111c                WriteFirmware
+ .ramsection    0x00000000002012c8      0x308 fpga.o
+                0x00000000002012c8                ConfigureFpga
+ .ramsection    0x00000000002015d0      0x130 spi.o
+                0x00000000002015d0                spi_wait4xfer_end
+                0x00000000002015f0                EnableCard
+                0x0000000000201600                DisableCard
+                0x000000000020167c                spi_read
+                0x00000000002016f8                spi_block_read
+ .ramsection    0x0000000000201700      0x418 mmc.o
+                0x000000000020192c                MMC_Read
+
+.igot.plt       0x0000000000201b18        0x0 load address 0x0000000000132e84
+ .igot.plt      0x0000000000000000        0x0 crt.o
+                0x0000000000201b18                . = ALIGN (0x4)
+                0x0000000000201b18                _edata = .
+                0x0000000000201b18                PROVIDE (edata, .)
+
+.bss            0x0000000000201b18     0xa240 load address 0x0000000000132e84
+                0x0000000000201b18                __bss_start = .
+                0x0000000000201b18                __bss_start__ = .
+ *(.bss)
+ .bss           0x0000000000201b18        0x0 crt.o
+ .bss           0x0000000000201b18        0x0 Cstartup_SAM7.o
+ .bss           0x0000000000201b18     0x19f0 fat.o
+                0x0000000000201b18                fat_start
+                0x0000000000201b1c                fat_buffer
+                0x0000000000201d1c                fat_number
+                0x0000000000201d20                fat_size
+                0x0000000000201d24                buffered_fat_index
+                0x0000000000201d28                fat32
+                0x0000000000201d2c                sector_buffer
+                0x000000000020212c                boot_sector
+                0x0000000000202130                partitioncount
+                0x0000000000202134                partitions
+                0x0000000000202174                fattype
+                0x0000000000202175                cluster_size
+                0x0000000000202178                cluster_mask
+                0x000000000020217c                dir_entries
+                0x0000000000202180                root_directory_size
+                0x0000000000202184                data_start
+                0x0000000000202188                root_directory_cluster
+                0x000000000020218c                root_directory_start
+                0x0000000000202190                info_sector
+                0x0000000000202299                nDirEntries
+                0x000000000020229a                iSelectedEntry
+                0x000000000020229c                sort_table
+                0x00000000002022a4                iCurrentDirectory
+                0x00000000002022a8                DirEntry
+                0x00000000002023a8                DirEntryLFN
+                0x0000000000202bd0                iPreviousDirectory
+                0x0000000000202bd4                t_DirEntry
+                0x0000000000202cd4                t_DirEntryLFN
+                0x00000000002034fc                t_sort_table
+                0x0000000000203504                entries_per_cluster
+                0x0000000000203506                directory_cluster
+ .bss           0x0000000000203508      0xaf8 fdd.o
+                0x0000000000203508                df
+                0x0000000000203ff8                drives
+                0x0000000000203ffc                pdfx
+ .bss           0x0000000000204000       0x10 firmware.o
+ .bss           0x0000000000204010        0x0 fpga.o
+ .bss           0x0000000000204010      0x20c hardware.o
+                0x0000000000204218                rstval
+ .bss           0x000000000020421c        0x0 spi.o
+ .bss           0x000000000020421c     0x23cc hdd.o
+                0x000000000020421c                hdf
+                0x00000000002064b4                rdbfile
+ .bss           0x00000000002065e8       0x2c main.o
+                0x00000000002065e8                s
+                0x0000000000206610                Error
+ .bss           0x0000000000206614       0x94 menu.o
+                0x0000000000206614                fs_pFileExt
+                0x0000000000206618                fs_Options
+                0x0000000000206619                fs_MenuSelect
+                0x000000000020661a                fs_MenuCancel
+                0x000000000020661b                menustate
+                0x0000000000206620                DirEntryInfo
+                0x0000000000206648                DiskInfo
+                0x0000000000206650                menu_timer
+                0x0000000000206656                config_autofire
+                0x0000000000206658                menumask
+                0x000000000020665c                menusub
+                0x0000000000206668                parentstate
+ .bss           0x00000000002066a8        0xc mmc.o
+ .bss           0x00000000002066b4      0xc5c osd.o
+                0x00000000002066b4                framebuffer
+                0x0000000000206eb8                stars
+ .bss           0x0000000000207310       0xb0 syscalls.o
+ .bss           0x00000000002073c0      0x2a4 user_io.o
+                0x00000000002073f0                key_remap_table
+ .bss           0x0000000000207664        0x2 boot.o
+                0x0000000000207664                bcurx
+ .bss           0x0000000000207666        0x0 rafile.o
+ *fill*         0x0000000000207666        0x2 
+ .bss           0x0000000000207668     0x10e4 config.o
+                0x0000000000207668                file
+                0x000000000020779c                romkey
+                0x000000000020839c                romfile
+                0x00000000002086d8                config
+                0x000000000020873c                configfilename
+                0x0000000000208748                DebugMode
+ .bss           0x000000000020874c      0xf30 tos.o
+                0x0000000000208f9c                hdd_direct
+                0x0000000000208fa0                hdd_image
+ .bss           0x000000000020967c       0x68 ikbd.o
+ .bss           0x00000000002096e4      0x15c xmodem.o
+ .bss           0x0000000000209840      0x344 ini_parser.o
+                0x0000000000209844                ini_file
+ .bss           0x0000000000209b84        0x4 mist_cfg.o
+                0x0000000000209b84                mist_cfg
+ .bss           0x0000000000209b88      0x91c archie.o
+                0x0000000000209b88                kbd_state
+                0x0000000000209bc8                floppy
+ .bss           0x000000000020a4a4        0x1 usb/max3421e.o
+ *fill*         0x000000000020a4a5        0x3 
+ .bss           0x000000000020a4a8      0xa10 usb/usb.o
+ .bss           0x000000000020aeb8        0x1 usb/hub.o
+ *fill*         0x000000000020aeb9        0x3 
+ .bss           0x000000000020aebc       0xc8 usb/hid.o
+ .bss           0x000000000020af84        0x0 usb/hidparser.o
+ .bss           0x000000000020af84        0x0 usb/timer.o
+ .bss           0x000000000020af84      0xc54 usb/asix.o
+ .bss           0x000000000020bbd8      0x110 usb/pl2303.o
+ .bss           0x000000000020bce8        0x0 usb/usbrtc.o
+ .bss           0x000000000020bce8        0x4 cdc_enumerate.o
+                0x000000000020bce8                currentRcvBank
+ .bss           0x000000000020bcec       0x28 cdc_control.o
+ .bss           0x000000000020bd14        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_udivsi3.o)
+ .bss           0x000000000020bd14        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_divsi3.o)
+ .bss           0x000000000020bd14        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_dvmd_tls.o)
+ .bss           0x000000000020bd14        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .bss           0x000000000020bd14        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .bss           0x000000000020bd14        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .bss           0x000000000020bd14        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .bss           0x000000000020bd14        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-iprintf.o)
+ .bss           0x000000000020bd14        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isprint.o)
+ .bss           0x000000000020bd14       0x34 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x000000000020bd14                __malloc_top_pad
+                0x000000000020bd18                __malloc_current_mallinfo
+                0x000000000020bd40                __malloc_max_sbrked_mem
+                0x000000000020bd44                __malloc_max_total_mem
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcmp.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-setvbuf.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-siprintf.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcat.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcpy.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncasecmp.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncat.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncmp.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok_r.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtol.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtoul.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-tolower.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-ctype_.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .bss           0x000000000020bd48        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .bss           0x000000000020bd48        0xc /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x000000000020bd48                _PathLocale
+                0x000000000020bd4c                __mlocale_changed
+                0x000000000020bd50                __nlocale_changed
+ .bss           0x000000000020bd54        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .bss           0x000000000020bd54        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .bss           0x000000000020bd54        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .bss           0x000000000020bd54        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .bss           0x000000000020bd54        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .bss           0x000000000020bd54        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .bss           0x000000000020bd54        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .bss           0x000000000020bd54        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+ .bss           0x000000000020bd54        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+ .bss           0x000000000020bd54        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .bss           0x000000000020bd54        0x0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+ *(COMMON)
+ COMMON         0x000000000020bd54        0x4 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                0x000000000020bd54                errno
+                0x000000000020bd58                . = ALIGN (0x4)
+                0x000000000020bd58                __bss_end__ = .
+                0x000000000020bd58                __end__ = .
+                0x000000000020bd58                _end = .
+                0x000000000020bd58                PROVIDE (end, .)
+                0x000000000020bd58                . = ALIGN (0x4)
+
+.int_data       0x0000000000210000        0x0
+ *(.internal_ram_top)
+ .internal_ram_top
+                0x0000000000210000        0x0 crt.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 Cstartup_SAM7.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000000       0x12 fat.o
+ .comment       0x0000000000000000       0x12 fdd.o
+ .comment       0x0000000000000000       0x12 firmware.o
+ .comment       0x0000000000000000       0x12 fpga.o
+ .comment       0x0000000000000000       0x12 hardware.o
+ .comment       0x0000000000000000       0x12 spi.o
+ .comment       0x0000000000000000       0x12 hdd.o
+ .comment       0x0000000000000000       0x12 main.o
+ .comment       0x0000000000000000       0x12 menu.o
+ .comment       0x0000000000000000       0x12 mmc.o
+ .comment       0x0000000000000000       0x12 osd.o
+ .comment       0x0000000000000000       0x12 syscalls.o
+ .comment       0x0000000000000000       0x12 user_io.o
+ .comment       0x0000000000000000       0x12 boot.o
+ .comment       0x0000000000000000       0x12 rafile.o
+ .comment       0x0000000000000000       0x12 config.o
+ .comment       0x0000000000000000       0x12 tos.o
+ .comment       0x0000000000000000       0x12 ikbd.o
+ .comment       0x0000000000000000       0x12 xmodem.o
+ .comment       0x0000000000000000       0x12 ini_parser.o
+ .comment       0x0000000000000000       0x12 mist_cfg.o
+ .comment       0x0000000000000000       0x12 archie.o
+ .comment       0x0000000000000000       0x12 usb/max3421e.o
+ .comment       0x0000000000000000       0x12 usb/usb.o
+ .comment       0x0000000000000000       0x12 usb/hub.o
+ .comment       0x0000000000000000       0x12 usb/hid.o
+ .comment       0x0000000000000000       0x12 usb/hidparser.o
+ .comment       0x0000000000000000       0x12 usb/timer.o
+ .comment       0x0000000000000000       0x12 usb/asix.o
+ .comment       0x0000000000000000       0x12 usb/pl2303.o
+ .comment       0x0000000000000000       0x12 usb/usbrtc.o
+ .comment       0x0000000000000000       0x12 cdc_enumerate.o
+ .comment       0x0000000000000000       0x12 cdc_control.o
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-iprintf.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isprint.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcmp.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-setvbuf.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-siprintf.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcat.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcpy.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncasecmp.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncat.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncmp.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok_r.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtol.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtoul.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-tolower.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-ctype_.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .comment       0x0000000000000000       0x12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+
+.reset          0x0000000000000000        0x0
+ .reset         0x0000000000000000        0x0 crt.o
+
+.ARM.attributes
+                0x0000000000000000       0x2b
+ .ARM.attributes
+                0x0000000000000000       0x16 crt.o
+ .ARM.attributes
+                0x0000000000000016       0x30 Cstartup_SAM7.o
+ .ARM.attributes
+                0x0000000000000046       0x30 fat.o
+ .ARM.attributes
+                0x0000000000000076       0x30 fdd.o
+ .ARM.attributes
+                0x00000000000000a6       0x30 firmware.o
+ .ARM.attributes
+                0x00000000000000d6       0x30 fpga.o
+ .ARM.attributes
+                0x0000000000000106       0x30 hardware.o
+ .ARM.attributes
+                0x0000000000000136       0x30 spi.o
+ .ARM.attributes
+                0x0000000000000166       0x30 hdd.o
+ .ARM.attributes
+                0x0000000000000196       0x30 main.o
+ .ARM.attributes
+                0x00000000000001c6       0x30 menu.o
+ .ARM.attributes
+                0x00000000000001f6       0x30 mmc.o
+ .ARM.attributes
+                0x0000000000000226       0x30 osd.o
+ .ARM.attributes
+                0x0000000000000256       0x30 syscalls.o
+ .ARM.attributes
+                0x0000000000000286       0x30 user_io.o
+ .ARM.attributes
+                0x00000000000002b6       0x30 boot.o
+ .ARM.attributes
+                0x00000000000002e6       0x30 rafile.o
+ .ARM.attributes
+                0x0000000000000316       0x30 config.o
+ .ARM.attributes
+                0x0000000000000346       0x30 tos.o
+ .ARM.attributes
+                0x0000000000000376       0x30 ikbd.o
+ .ARM.attributes
+                0x00000000000003a6       0x30 xmodem.o
+ .ARM.attributes
+                0x00000000000003d6       0x30 ini_parser.o
+ .ARM.attributes
+                0x0000000000000406       0x30 mist_cfg.o
+ .ARM.attributes
+                0x0000000000000436       0x30 archie.o
+ .ARM.attributes
+                0x0000000000000466       0x30 usb/max3421e.o
+ .ARM.attributes
+                0x0000000000000496       0x30 usb/usb.o
+ .ARM.attributes
+                0x00000000000004c6       0x30 usb/hub.o
+ .ARM.attributes
+                0x00000000000004f6       0x30 usb/hid.o
+ .ARM.attributes
+                0x0000000000000526       0x30 usb/hidparser.o
+ .ARM.attributes
+                0x0000000000000556       0x30 usb/timer.o
+ .ARM.attributes
+                0x0000000000000586       0x30 usb/asix.o
+ .ARM.attributes
+                0x00000000000005b6       0x30 usb/pl2303.o
+ .ARM.attributes
+                0x00000000000005e6       0x30 usb/usbrtc.o
+ .ARM.attributes
+                0x0000000000000616       0x30 cdc_enumerate.o
+ .ARM.attributes
+                0x0000000000000646       0x30 cdc_control.o
+ .ARM.attributes
+                0x0000000000000676       0x18 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000000000000068e       0x18 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000000006a6       0x18 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000000006be       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000000006ee       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x000000000000071e       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x000000000000074e       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000000000000077e       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-iprintf.o)
+ .ARM.attributes
+                0x00000000000007ae       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isprint.o)
+ .ARM.attributes
+                0x00000000000007de       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x000000000000080e       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x000000000000083e       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000000000000086e       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x000000000000089e       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000008ce       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000000008fe       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+ .ARM.attributes
+                0x000000000000092e       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000000000000095e       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-setvbuf.o)
+ .ARM.attributes
+                0x000000000000098e       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-siprintf.o)
+ .ARM.attributes
+                0x00000000000009be       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x00000000000009ee       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcat.o)
+ .ARM.attributes
+                0x0000000000000a1e       0x16 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x0000000000000a34       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x0000000000000a64       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000000000000a94       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncasecmp.o)
+ .ARM.attributes
+                0x0000000000000ac4       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncat.o)
+ .ARM.attributes
+                0x0000000000000af4       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncmp.o)
+ .ARM.attributes
+                0x0000000000000b24       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x0000000000000b54       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok.o)
+ .ARM.attributes
+                0x0000000000000b84       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok_r.o)
+ .ARM.attributes
+                0x0000000000000bb4       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtol.o)
+ .ARM.attributes
+                0x0000000000000be4       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtoul.o)
+ .ARM.attributes
+                0x0000000000000c14       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x0000000000000c44       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-tolower.o)
+ .ARM.attributes
+                0x0000000000000c74       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .ARM.attributes
+                0x0000000000000ca4       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x0000000000000cd4       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .ARM.attributes
+                0x0000000000000d04       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x0000000000000d34       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .ARM.attributes
+                0x0000000000000d64       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x0000000000000d94       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .ARM.attributes
+                0x0000000000000dc4       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x0000000000000df4       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+ .ARM.attributes
+                0x0000000000000e24       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x0000000000000e54       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x0000000000000e84       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x0000000000000eb4       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x0000000000000ee4       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x0000000000000f14       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x0000000000000f44       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x0000000000000f74       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .ARM.attributes
+                0x0000000000000fa4       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x0000000000000fd4       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000000000001004       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+ .ARM.attributes
+                0x0000000000001034       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x0000000000001064       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x0000000000001094       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x710
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000040       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x0000000000000060       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .debug_aranges
+                0x0000000000000080       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .debug_aranges
+                0x00000000000000c0       0x18 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000000000000d8       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-iprintf.o)
+ .debug_aranges
+                0x00000000000000f8       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isprint.o)
+ .debug_aranges
+                0x0000000000000118       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_aranges
+                0x0000000000000138       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x0000000000000158       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000178       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .debug_aranges
+                0x0000000000000198       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x00000000000001b8       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .debug_aranges
+                0x00000000000001d8       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+ .debug_aranges
+                0x00000000000001f8       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x0000000000000218       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-setvbuf.o)
+ .debug_aranges
+                0x0000000000000238       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-siprintf.o)
+ .debug_aranges
+                0x0000000000000258       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .debug_aranges
+                0x0000000000000278       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcat.o)
+ .debug_aranges
+                0x0000000000000298       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .debug_aranges
+                0x00000000000002b8       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcpy.o)
+ .debug_aranges
+                0x00000000000002d8       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x00000000000002f8       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncasecmp.o)
+ .debug_aranges
+                0x0000000000000318       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncat.o)
+ .debug_aranges
+                0x0000000000000338       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncmp.o)
+ .debug_aranges
+                0x0000000000000358       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+ .debug_aranges
+                0x0000000000000378       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok.o)
+ .debug_aranges
+                0x0000000000000398       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok_r.o)
+ .debug_aranges
+                0x00000000000003b8       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtol.o)
+ .debug_aranges
+                0x00000000000003d8       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtoul.o)
+ .debug_aranges
+                0x00000000000003f8       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_aranges
+                0x0000000000000418       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-tolower.o)
+ .debug_aranges
+                0x0000000000000438       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .debug_aranges
+                0x0000000000000458       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+ .debug_aranges
+                0x0000000000000478       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .debug_aranges
+                0x0000000000000498       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .debug_aranges
+                0x00000000000004b8       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .debug_aranges
+                0x00000000000004d8       0x18 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-ctype_.o)
+ .debug_aranges
+                0x00000000000004f0       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .debug_aranges
+                0x0000000000000510       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .debug_aranges
+                0x0000000000000530       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+ .debug_aranges
+                0x0000000000000550       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .debug_aranges
+                0x0000000000000570       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .debug_aranges
+                0x0000000000000590       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .debug_aranges
+                0x00000000000005b0       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .debug_aranges
+                0x00000000000005d0       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .debug_aranges
+                0x00000000000005f0       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .debug_aranges
+                0x0000000000000610       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .debug_aranges
+                0x0000000000000630       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .debug_aranges
+                0x0000000000000650       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .debug_aranges
+                0x0000000000000670       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .debug_aranges
+                0x0000000000000690       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+ .debug_aranges
+                0x00000000000006b0       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_aranges
+                0x00000000000006d0       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .debug_aranges
+                0x00000000000006f0       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x19b85
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0x87 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_udivsi3.o)
+ .debug_info    0x0000000000000087       0x87 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_divsi3.o)
+ .debug_info    0x000000000000010e       0x87 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x0000000000000195      0x889 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .debug_info    0x0000000000000a1e      0xdc8 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .debug_info    0x00000000000017e6      0x99e /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .debug_info    0x0000000000002184      0x894 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .debug_info    0x0000000000002a18      0x9ac /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-iprintf.o)
+ .debug_info    0x00000000000033c4       0x98 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isprint.o)
+ .debug_info    0x000000000000345c      0xd72 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_info    0x00000000000041ce      0x113 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcmp.o)
+ .debug_info    0x00000000000042e1      0x131 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .debug_info    0x0000000000004412      0x131 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .debug_info    0x0000000000004543      0x117 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .debug_info    0x000000000000465a      0x8b4 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .debug_info    0x0000000000004f0e      0xa12 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+ .debug_info    0x0000000000005920      0x8f4 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .debug_info    0x0000000000006214      0x9d7 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-setvbuf.o)
+ .debug_info    0x0000000000006beb      0x9e4 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-siprintf.o)
+ .debug_info    0x00000000000075cf      0xb89 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .debug_info    0x0000000000008158      0x110 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcat.o)
+ .debug_info    0x0000000000008268       0xb1 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .debug_info    0x0000000000008319       0xbd /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcpy.o)
+ .debug_info    0x00000000000083d6       0xb5 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .debug_info    0x000000000000848b      0x169 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncasecmp.o)
+ .debug_info    0x00000000000085f4      0x103 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncat.o)
+ .debug_info    0x00000000000086f7       0xf5 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncmp.o)
+ .debug_info    0x00000000000087ec      0x128 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+ .debug_info    0x0000000000008914      0x8fa /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok.o)
+ .debug_info    0x000000000000920e      0x182 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok_r.o)
+ .debug_info    0x0000000000009390      0x9a9 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtol.o)
+ .debug_info    0x0000000000009d39      0x9a9 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtoul.o)
+ .debug_info    0x000000000000a6e2     0x101b /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_info    0x000000000000b6fd       0x71 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-tolower.o)
+ .debug_info    0x000000000000b76e     0x153d /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .debug_info    0x000000000000ccab      0x9cc /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+ .debug_info    0x000000000000d677      0x929 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .debug_info    0x000000000000dfa0      0x93b /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .debug_info    0x000000000000e8db      0x8e0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .debug_info    0x000000000000f1bb       0x6f /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-ctype_.o)
+ .debug_info    0x000000000000f22a      0xa28 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .debug_info    0x000000000000fc52      0xaba /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .debug_info    0x000000000001070c      0xabb /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+ .debug_info    0x00000000000111c7      0xc1a /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .debug_info    0x0000000000011de1      0xc3f /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .debug_info    0x0000000000012a20      0xc24 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .debug_info    0x0000000000013644      0x90c /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .debug_info    0x0000000000013f50      0xae6 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .debug_info    0x0000000000014a36      0x915 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .debug_info    0x000000000001534b      0x129 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .debug_info    0x0000000000015474      0x922 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .debug_info    0x0000000000015d96      0xc8a /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .debug_info    0x0000000000016a20      0x9f9 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .debug_info    0x0000000000017419      0xa77 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+ .debug_info    0x0000000000017e90      0x9b7 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_info    0x0000000000018847      0xa5e /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .debug_info    0x00000000000192a5      0x8e0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+
+.debug_abbrev   0x0000000000000000     0x5b47
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x14 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000000000000014       0x14 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000000028       0x14 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x000000000000003c      0x18f /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .debug_abbrev  0x00000000000001cb      0x36a /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .debug_abbrev  0x0000000000000535      0x1c2 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .debug_abbrev  0x00000000000006f7      0x180 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000000877      0x20b /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-iprintf.o)
+ .debug_abbrev  0x0000000000000a82       0x76 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isprint.o)
+ .debug_abbrev  0x0000000000000af8      0x2b4 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_abbrev  0x0000000000000dac       0x7f /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x0000000000000e2b       0xab /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x0000000000000ed6       0xab /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .debug_abbrev  0x0000000000000f81       0x9f /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .debug_abbrev  0x0000000000001020      0x19a /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .debug_abbrev  0x00000000000011ba      0x233 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+ .debug_abbrev  0x00000000000013ed      0x1fd /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x00000000000015ea      0x242 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-setvbuf.o)
+ .debug_abbrev  0x000000000000182c      0x1fc /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-siprintf.o)
+ .debug_abbrev  0x0000000000001a28      0x22b /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .debug_abbrev  0x0000000000001c53       0xb3 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcat.o)
+ .debug_abbrev  0x0000000000001d06       0x14 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .debug_abbrev  0x0000000000001d1a       0x72 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcpy.o)
+ .debug_abbrev  0x0000000000001d8c       0x70 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x0000000000001dfc       0xb1 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncasecmp.o)
+ .debug_abbrev  0x0000000000001ead       0x99 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncat.o)
+ .debug_abbrev  0x0000000000001f46       0x81 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncmp.o)
+ .debug_abbrev  0x0000000000001fc7       0x9f /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+ .debug_abbrev  0x0000000000002066      0x1ea /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok.o)
+ .debug_abbrev  0x0000000000002250       0xed /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok_r.o)
+ .debug_abbrev  0x000000000000233d      0x214 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtol.o)
+ .debug_abbrev  0x0000000000002551      0x214 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtoul.o)
+ .debug_abbrev  0x0000000000002765      0x2a9 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_abbrev  0x0000000000002a0e       0x76 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-tolower.o)
+ .debug_abbrev  0x0000000000002a84      0x3ad /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .debug_abbrev  0x0000000000002e31      0x25b /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+ .debug_abbrev  0x000000000000308c      0x1f4 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .debug_abbrev  0x0000000000003280      0x20b /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .debug_abbrev  0x000000000000348b      0x1ef /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .debug_abbrev  0x000000000000367a       0x4e /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-ctype_.o)
+ .debug_abbrev  0x00000000000036c8      0x2aa /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .debug_abbrev  0x0000000000003972      0x2ab /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .debug_abbrev  0x0000000000003c1d      0x26e /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+ .debug_abbrev  0x0000000000003e8b      0x26b /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .debug_abbrev  0x00000000000040f6      0x247 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .debug_abbrev  0x000000000000433d      0x2ac /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .debug_abbrev  0x00000000000045e9      0x1fe /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .debug_abbrev  0x00000000000047e7      0x206 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .debug_abbrev  0x00000000000049ed      0x1f7 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .debug_abbrev  0x0000000000004be4       0xba /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .debug_abbrev  0x0000000000004c9e      0x1ef /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .debug_abbrev  0x0000000000004e8d      0x25b /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .debug_abbrev  0x00000000000050e8      0x25c /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .debug_abbrev  0x0000000000005344      0x213 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+ .debug_abbrev  0x0000000000005557      0x203 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_abbrev  0x000000000000575a      0x1fe /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .debug_abbrev  0x0000000000005958      0x1ef /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+
+.debug_line     0x0000000000000000     0x5531
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0x8a /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_udivsi3.o)
+ .debug_line    0x000000000000008a       0x96 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_divsi3.o)
+ .debug_line    0x0000000000000120       0x61 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x0000000000000181      0x106 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .debug_line    0x0000000000000287      0x255 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .debug_line    0x00000000000004dc      0x178 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .debug_line    0x0000000000000654       0xeb /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .debug_line    0x000000000000073f      0x161 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-iprintf.o)
+ .debug_line    0x00000000000008a0       0xab /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isprint.o)
+ .debug_line    0x000000000000094b      0x331 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_line    0x0000000000000c7c      0x107 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcmp.o)
+ .debug_line    0x0000000000000d83      0x116 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .debug_line    0x0000000000000e99      0x124 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .debug_line    0x0000000000000fbd      0x117 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .debug_line    0x00000000000010d4       0xfd /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .debug_line    0x00000000000011d1      0x185 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+ .debug_line    0x0000000000001356      0x14c /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .debug_line    0x00000000000014a2      0x1ab /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-setvbuf.o)
+ .debug_line    0x000000000000164d      0x18c /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-siprintf.o)
+ .debug_line    0x00000000000017d9      0x177 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .debug_line    0x0000000000001950       0xba /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcat.o)
+ .debug_line    0x0000000000001a0a      0x107 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .debug_line    0x0000000000001b11       0xb0 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcpy.o)
+ .debug_line    0x0000000000001bc1       0xec /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .debug_line    0x0000000000001cad      0x113 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncasecmp.o)
+ .debug_line    0x0000000000001dc0       0xfc /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncat.o)
+ .debug_line    0x0000000000001ebc      0x13b /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncmp.o)
+ .debug_line    0x0000000000001ff7      0x109 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+ .debug_line    0x0000000000002100      0x13e /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok.o)
+ .debug_line    0x000000000000223e       0xe1 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok_r.o)
+ .debug_line    0x000000000000231f      0x1ab /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtol.o)
+ .debug_line    0x00000000000024ca      0x194 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtoul.o)
+ .debug_line    0x000000000000265e      0x5d3 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_line    0x0000000000002c31       0xaa /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-tolower.o)
+ .debug_line    0x0000000000002cdb      0x66e /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .debug_line    0x0000000000003349      0x1a6 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+ .debug_line    0x00000000000034ef      0x14c /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .debug_line    0x000000000000363b      0x1c1 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .debug_line    0x00000000000037fc      0x14a /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .debug_line    0x0000000000003946       0x5b /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-ctype_.o)
+ .debug_line    0x00000000000039a1      0x18d /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .debug_line    0x0000000000003b2e      0x22a /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .debug_line    0x0000000000003d58      0x1b3 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+ .debug_line    0x0000000000003f0b      0x23b /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .debug_line    0x0000000000004146      0x28e /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .debug_line    0x00000000000043d4      0x189 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .debug_line    0x000000000000455d      0x14c /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .debug_line    0x00000000000046a9      0x1c5 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .debug_line    0x000000000000486e      0x144 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .debug_line    0x00000000000049b2      0x119 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .debug_line    0x0000000000004acb      0x14b /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .debug_line    0x0000000000004c16      0x226 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .debug_line    0x0000000000004e3c      0x173 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .debug_line    0x0000000000004faf      0x175 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+ .debug_line    0x0000000000005124      0x163 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_line    0x0000000000005287      0x15f /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .debug_line    0x00000000000053e6      0x14b /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+
+.debug_frame    0x0000000000000000     0x124c
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000020       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/libgcc.a(_divsi3.o)
+ .debug_frame   0x0000000000000040       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000060      0x174 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .debug_frame   0x00000000000001d4       0x80 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .debug_frame   0x0000000000000254       0x74 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-iprintf.o)
+ .debug_frame   0x00000000000002c8       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isprint.o)
+ .debug_frame   0x00000000000002f8       0x84 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x000000000000037c       0x38 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcmp.o)
+ .debug_frame   0x00000000000003b4       0x38 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000000000003ec       0x40 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .debug_frame   0x000000000000042c       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .debug_frame   0x000000000000045c       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .debug_frame   0x000000000000048c       0x4c /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+ .debug_frame   0x00000000000004d8       0x3c /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000514       0x50 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-setvbuf.o)
+ .debug_frame   0x0000000000000564       0x80 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-siprintf.o)
+ .debug_frame   0x00000000000005e4       0x9c /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .debug_frame   0x0000000000000680       0x2c /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcat.o)
+ .debug_frame   0x00000000000006ac       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcpy.o)
+ .debug_frame   0x00000000000006cc       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .debug_frame   0x00000000000006ec       0x34 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncasecmp.o)
+ .debug_frame   0x0000000000000720       0x30 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncat.o)
+ .debug_frame   0x0000000000000750       0x48 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncmp.o)
+ .debug_frame   0x0000000000000798       0x3c /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+ .debug_frame   0x00000000000007d4       0x2c /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok.o)
+ .debug_frame   0x0000000000000800       0x48 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok_r.o)
+ .debug_frame   0x0000000000000848       0x68 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtol.o)
+ .debug_frame   0x00000000000008b0       0x68 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtoul.o)
+ .debug_frame   0x0000000000000918       0x9c /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x00000000000009b4       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-tolower.o)
+ .debug_frame   0x00000000000009d4      0x110 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .debug_frame   0x0000000000000ae4       0x48 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+ .debug_frame   0x0000000000000b2c       0x34 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .debug_frame   0x0000000000000b60       0x40 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .debug_frame   0x0000000000000ba0       0x34 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .debug_frame   0x0000000000000bd4       0x58 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .debug_frame   0x0000000000000c2c       0xa8 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .debug_frame   0x0000000000000cd4       0x94 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+ .debug_frame   0x0000000000000d68       0x78 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .debug_frame   0x0000000000000de0       0x80 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .debug_frame   0x0000000000000e60       0xa4 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .debug_frame   0x0000000000000f04       0x34 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .debug_frame   0x0000000000000f38       0x58 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .debug_frame   0x0000000000000f90       0x48 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .debug_frame   0x0000000000000fd8       0x3c /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .debug_frame   0x0000000000001014       0x34 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .debug_frame   0x0000000000001048       0x70 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .debug_frame   0x00000000000010b8       0x64 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .debug_frame   0x000000000000111c       0x78 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+ .debug_frame   0x0000000000001194       0x50 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_frame   0x00000000000011e4       0x34 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .debug_frame   0x0000000000001218       0x34 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+
+.debug_str      0x0000000000000000     0x1c91
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x465 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+                                        0x4f1 (size before relaxing)
+ .debug_str     0x0000000000000465      0x192 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                                        0x630 (size before relaxing)
+ .debug_str     0x00000000000005f7       0x46 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+                                        0x50e (size before relaxing)
+ .debug_str     0x000000000000063d       0x82 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                                        0x509 (size before relaxing)
+ .debug_str     0x00000000000006bf       0x6f /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-iprintf.o)
+                                        0x536 (size before relaxing)
+ .debug_str     0x000000000000072e       0x95 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isprint.o)
+                                         0xba (size before relaxing)
+ .debug_str     0x00000000000007c3      0x273 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                                        0x718 (size before relaxing)
+ .debug_str     0x0000000000000a36       0x7f /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcmp.o)
+                                        0x138 (size before relaxing)
+ .debug_str     0x0000000000000ab5       0x67 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+                                        0x15f (size before relaxing)
+ .debug_str     0x0000000000000b1c       0x5b /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+                                        0x16b (size before relaxing)
+ .debug_str     0x0000000000000b77       0x4d /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                                        0x14c (size before relaxing)
+ .debug_str     0x0000000000000bc4       0x4d /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                                        0x512 (size before relaxing)
+ .debug_str     0x0000000000000c11       0x93 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+                                        0x558 (size before relaxing)
+ .debug_str     0x0000000000000ca4       0x42 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                                        0x500 (size before relaxing)
+ .debug_str     0x0000000000000ce6       0x5b /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-setvbuf.o)
+                                        0x540 (size before relaxing)
+ .debug_str     0x0000000000000d41       0x5d /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-siprintf.o)
+                                        0x53a (size before relaxing)
+ .debug_str     0x0000000000000d9e       0x97 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                                        0x564 (size before relaxing)
+ .debug_str     0x0000000000000e35       0x52 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcat.o)
+                                        0x143 (size before relaxing)
+ .debug_str     0x0000000000000e87       0x85 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcpy.o)
+                                        0x13e (size before relaxing)
+ .debug_str     0x0000000000000f0c       0x41 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+                                        0x145 (size before relaxing)
+ .debug_str     0x0000000000000f4d       0x54 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncasecmp.o)
+                                        0x15a (size before relaxing)
+ .debug_str     0x0000000000000fa1       0x42 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncat.o)
+                                        0x145 (size before relaxing)
+ .debug_str     0x0000000000000fe3       0x42 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncmp.o)
+                                        0x13a (size before relaxing)
+ .debug_str     0x0000000000001025       0x42 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+                                        0x162 (size before relaxing)
+ .debug_str     0x0000000000001067       0x4b /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok.o)
+                                        0x50a (size before relaxing)
+ .debug_str     0x00000000000010b2       0x5f /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok_r.o)
+                                        0x16a (size before relaxing)
+ .debug_str     0x0000000000001111       0x64 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtol.o)
+                                        0x52f (size before relaxing)
+ .debug_str     0x0000000000001175       0x4d /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtoul.o)
+                                        0x532 (size before relaxing)
+ .debug_str     0x00000000000011c2      0x141 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                                        0x69b (size before relaxing)
+ .debug_str     0x0000000000001303       0x41 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-tolower.o)
+                                         0xb2 (size before relaxing)
+ .debug_str     0x0000000000001344       0x43 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+                                        0x6dd (size before relaxing)
+ .debug_str     0x0000000000001387       0x48 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+                                        0x52d (size before relaxing)
+ .debug_str     0x00000000000013cf       0x38 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+                                        0x4fd (size before relaxing)
+ .debug_str     0x0000000000001407       0x45 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+                                        0x528 (size before relaxing)
+ .debug_str     0x000000000000144c       0x38 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+                                        0x4ed (size before relaxing)
+ .debug_str     0x0000000000001484       0x40 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-ctype_.o)
+                                         0xba (size before relaxing)
+ .debug_str     0x00000000000014c4       0x54 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+                                        0x556 (size before relaxing)
+ .debug_str     0x0000000000001518       0x50 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                                        0x569 (size before relaxing)
+ .debug_str     0x0000000000001568       0x60 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+                                        0x569 (size before relaxing)
+ .debug_str     0x00000000000015c8       0x34 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                                        0x662 (size before relaxing)
+ .debug_str     0x00000000000015fc       0x48 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+                                        0x59b (size before relaxing)
+ .debug_str     0x0000000000001644      0x246 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                                        0x766 (size before relaxing)
+ .debug_str     0x000000000000188a       0x3f /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+                                        0x4fb (size before relaxing)
+ .debug_str     0x00000000000018c9      0x120 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+                                        0x60b (size before relaxing)
+ .debug_str     0x00000000000019e9       0x4a /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+                                        0x51d (size before relaxing)
+ .debug_str     0x0000000000001a33       0x43 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+                                        0x152 (size before relaxing)
+ .debug_str     0x0000000000001a76       0x37 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+                                        0x4fb (size before relaxing)
+ .debug_str     0x0000000000001aad       0x4e /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                                        0x5ea (size before relaxing)
+ .debug_str     0x0000000000001afb       0x63 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                                        0x528 (size before relaxing)
+ .debug_str     0x0000000000001b5e       0x52 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+                                        0x540 (size before relaxing)
+ .debug_str     0x0000000000001bb0       0x5b /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+                                        0x549 (size before relaxing)
+ .debug_str     0x0000000000001c0b       0x45 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+                                        0x5e0 (size before relaxing)
+ .debug_str     0x0000000000001c50       0x41 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+                                        0x4f7 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x805a
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x234 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .debug_loc     0x0000000000000234      0x27f /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .debug_loc     0x00000000000004b3       0x34 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-iprintf.o)
+ .debug_loc     0x00000000000004e7       0x42 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isprint.o)
+ .debug_loc     0x0000000000000529      0xaaa /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_loc     0x0000000000000fd3      0x106 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcmp.o)
+ .debug_loc     0x00000000000010d9      0x217 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .debug_loc     0x00000000000012f0      0x2c1 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .debug_loc     0x00000000000015b1      0x198 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .debug_loc     0x0000000000001749       0xc3 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+ .debug_loc     0x000000000000180c       0x66 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .debug_loc     0x0000000000001872      0x22a /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-setvbuf.o)
+ .debug_loc     0x0000000000001a9c       0x79 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-siprintf.o)
+ .debug_loc     0x0000000000001b15      0x2b5 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .debug_loc     0x0000000000001dca       0xb6 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcat.o)
+ .debug_loc     0x0000000000001e80       0x21 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcpy.o)
+ .debug_loc     0x0000000000001ea1       0x21 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .debug_loc     0x0000000000001ec2      0x335 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncasecmp.o)
+ .debug_loc     0x00000000000021f7       0xc4 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncat.o)
+ .debug_loc     0x00000000000022bb      0x1ca /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncmp.o)
+ .debug_loc     0x0000000000002485      0x11c /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+ .debug_loc     0x00000000000025a1       0x61 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok.o)
+ .debug_loc     0x0000000000002602      0x257 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtok_r.o)
+ .debug_loc     0x0000000000002859      0x3bb /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtol.o)
+ .debug_loc     0x0000000000002c14      0x386 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strtoul.o)
+ .debug_loc     0x0000000000002f9a      0xd87 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_loc     0x0000000000003d21       0x21 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-tolower.o)
+ .debug_loc     0x0000000000003d42     0x16c4 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .debug_loc     0x0000000000005406      0x14f /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+ .debug_loc     0x0000000000005555       0xa5 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .debug_loc     0x00000000000055fa       0xd4 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .debug_loc     0x00000000000056ce       0x4d /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .debug_loc     0x000000000000571b      0x1ed /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .debug_loc     0x0000000000005908      0x305 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .debug_loc     0x0000000000005c0d      0x271 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+ .debug_loc     0x0000000000005e7e      0x4c4 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .debug_loc     0x0000000000006342      0x640 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .debug_loc     0x0000000000006982      0x166 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .debug_loc     0x0000000000006ae8       0xa5 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .debug_loc     0x0000000000006b8d      0x170 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .debug_loc     0x0000000000006cfd       0x58 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-malloc.o)
+ .debug_loc     0x0000000000006d55      0x175 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .debug_loc     0x0000000000006eca       0xa5 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .debug_loc     0x0000000000006f6f      0xb9f /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .debug_loc     0x0000000000007b0e      0x115 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .debug_loc     0x0000000000007c23      0x25e /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+ .debug_loc     0x0000000000007e81      0x113 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_loc     0x0000000000007f94       0x79 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .debug_loc     0x000000000000800d       0x4d /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+OUTPUT(firmware.elf elf32-littlearm)
+
+.debug_ranges   0x0000000000000000      0x488
+ .debug_ranges  0x0000000000000000       0x68 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .debug_ranges  0x0000000000000068       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_ranges  0x0000000000000088       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-setvbuf.o)
+ .debug_ranges  0x00000000000000a8       0x10 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcpy.o)
+ .debug_ranges  0x00000000000000b8       0x10 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .debug_ranges  0x00000000000000c8       0x48 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strncasecmp.o)
+ .debug_ranges  0x0000000000000110       0x48 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_ranges  0x0000000000000158      0x188 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .debug_ranges  0x00000000000002e0       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+ .debug_ranges  0x0000000000000300       0x20 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .debug_ranges  0x0000000000000320       0x38 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .debug_ranges  0x0000000000000358       0x38 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .debug_ranges  0x0000000000000390       0x18 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+ .debug_ranges  0x00000000000003a8       0x28 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .debug_ranges  0x00000000000003d0       0xb8 /opt/cross/lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)

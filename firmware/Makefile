@@ -1,4 +1,4 @@
-BASE ?= /opt/arm-none-eabi/bin/arm-none-eabi
+BASE ?= /opt/cross/bin/arm-none-eabi
 CC      = $(BASE)-gcc
 LD      = $(BASE)-gcc
 AS      = $(BASE)-as
