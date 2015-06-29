@@ -1,3 +1,17 @@
+# first group I added based on the make clean command
+*.d
+*.o
+*.hex
+*.elf
+*.map
+*.lst
+core
+*~
+*/*.d
+*/*.o
+*.bin
+*.upg
+
 *.diff
 *.patch
 *.orig
